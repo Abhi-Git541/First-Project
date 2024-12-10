@@ -9,4 +9,9 @@ This is my first project to learn more about git and github.
 6. Then run your python file. Since streamlit use this command to run it
 ''' streamlit run d:/TVS/Abhishek/Projects/First-Project/Weather.py ''' 
 7. To update everything on github use these commands
-
+-git status
+-git add .
+-git add file names
+-git commit -m "comments"
+-git push origin main
+after these commands everything will be updated in the github repository.
