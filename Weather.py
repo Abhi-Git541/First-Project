@@ -26,6 +26,7 @@ def plot_weather_data(data, city):
 # Streamlit Dashboard
 st.title("🌦️ Weather")
 st.write("Get real-time weather updates for your favorite cities!")
+st.write("Hello Please check the city name ")
 
 # Input field for City
 city = st.text_input("Enter the name of a city:")
